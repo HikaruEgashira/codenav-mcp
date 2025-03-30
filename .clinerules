@@ -1,0 +1,8 @@
+## rule
+
+- use deno
+- deny inline comment
+- If two unexpected mistakes occur due to a lack of prior knowledge about a specific library, lightly review the docs folder.
+- The docs folder is a collection of conceptual models starting from llms.txt.
+- If it still doesn't resolve, please ask for help.
+- Always check by `deno test -A server.ts`
